@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my problem solving skills**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **c++, nodejs, react**
 
